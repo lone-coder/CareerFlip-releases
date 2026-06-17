@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "channel": "beta",
+  "version": "0.3.0",
+  "build": 3,
+  "minimum_system_version": "12.0",
+  "release_url": "https://github.com/lone-coder/CareerFlip-releases/releases",
+  "dmg_url": "https://github.com/lone-coder/CareerFlip-releases/releases",
+  "dmg_name": "",
+  "dmg_sha256": "",
+  "dmg_size_bytes": 0,
+  "sha256": "",
+  "size_bytes": 0,
+  "exe_url": "https://github.com/lone-coder/CareerFlip-releases/releases",
+  "exe_name": "",
+  "exe_sha256": "",
+  "exe_size_bytes": 0,
+  "published_at": "2026-06-17T00:00:00Z",
+  "release_notes_url": null
+}
